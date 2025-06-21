@@ -13,9 +13,4 @@ A desktop Python application that allows users to draw, save, and manage unlock 
 - ♻️ Reset/delete all stored patterns with one click
 - 🧰 User-friendly Tkinter interface
 
----
-
-## 📷 Screenshots
-
-> *(Optional: add these if you want — you can upload screenshots in your GitHub repo)*
 
